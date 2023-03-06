@@ -1,2 +1,3 @@
-import webbrowserurl = input("Podaj stronę internetową:")
+import webbrowser
+url = input("Podaj strone internetowa:")
 webbrowser.open(url)
